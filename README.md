@@ -16,7 +16,7 @@
 
 ## Preview
 
-![Portfolio Hero Section](project_temp.png)
+<img src="project_temp.png" width="400"/>
 
 ---
 
