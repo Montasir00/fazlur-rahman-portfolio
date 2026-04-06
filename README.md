@@ -1,147 +1,77 @@
-# Fazlur Rahman — Engineering Portfolio
+# [Fazlur Rahman](https://Montasir00.github.io/Portfolio-Website) — Engineering Portfolio 🚀
 
-## Data Analyst | ML Enthusiast | Full-Stack Developer
+<div align="center">
 
-Building scalable, data-driven, and production-ready systems with a focus on performance, security, and real-world applications.
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-646CFF?style=for-the-badge&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
+[**Live Demo**](https://fazlurrahman.vercel.app/) • [**Report Bug**](https://fazlurrahman.vercel.app/) • [**Request Feature**](https://fazlurrahman.vercel.app/)
 
-## Live Links
-
-* Live Demo: https://fazlurrahman.vercel.app/
-* Report Bug: https://fazlurrahman.vercel.app/
-* Request Feature: https://fazlurrahman.vercel.app/
-
----
-
-## Preview
-
-![Portfolio Preview](public/assets/images/projects/pipeline.webp)
-
-A modern portfolio showcasing projects across machine learning, data systems, and full-stack development.
+</div>
 
 ---
 
-## Motivation
+## 📽️ Preview
 
-This portfolio demonstrates the ability to design and build:
-
-* Production-ready applications
-* Efficient data pipelines
-* Scalable and maintainable systems
-
-The focus is on combining theoretical knowledge with practical implementation and performance optimization.
+![Portfolio Hero Section](public/assets/images/projects/pipeline.webp)  
+*Metadata-driven gallery showcasing projects.*
 
 ---
 
-## Technical Highlights
+## 🌟 Website Motivation
 
-### Frontend & Performance
+I built this portfolio to demonstrate not only my projects but also my ability to build **production-ready, performant, and maintainable software systems**.
 
-* Built using React 19 and TypeScript
-* Styled with Tailwind CSS v4 (zero-runtime CSS)
-* Implemented smooth UI animations using Framer Motion
-* Optimized assets using automated WebP conversion
+### Core Technical Achievements
+
+- **Zero-Runtime CSS**: Leveraged **Tailwind CSS v4** for efficient styling and fast load times.  
+- **Physics-Based UI**: Implemented smooth, staggered animations using **Framer Motion** for a refined user experience.  
+- **Automated Data Pipelines**: Built an asset optimization workflow using Node.js and **Sharp** to convert high-resolution images to WebP, improving load performance and reducing LCP (Largest Contentful Paint).  
+- **Interactive Data Visualization**: Developed dashboards using **Recharts** to visualize metrics such as IoT logs, ML model performance, and transaction data.  
+- **Responsive Architecture**: Designed a fully responsive, modular system featuring a custom **Terminal UI** and an **Interactive World Map**.  
 
 ---
+
+## 🛠️ Tech Stack & Architecture
+
+### Frontend
+- **React 19**: Utilizing modern concurrent rendering features and hooks.  
+- **TypeScript**: Ensuring type safety across application data layers (project metadata, geo-data).  
+- **Geist & JetBrains Mono**: Selected for clear and readable technical typography.  
+- **Lucide Icons**: Used for consistent and clean interface elements.  
 
 ### Data Engineering & Machine Learning
-
-* Built ML pipelines using Scikit-Learn, TensorFlow, and OpenCV
-* Applied SHAP and LIME for model interpretability
-* Simulated real-time data ingestion using MQTT
-* Worked with multi-database systems
-
----
-
-### Backend & Systems
-
-* Experience with MySQL, MongoDB, and Neo4j
-* Dockerized environments for consistent development and deployment
-* Implemented authentication systems and basic security features (CSRF protection, MFA concept)
-* Configured reverse proxy using NGINX
+- **ML Pipelines**: Built using Scikit-Learn, TensorFlow, and OpenCV.  
+- **Model Interpretation**: Applied SHAP and LIME techniques.  
+- **Databases**: Worked with MySQL, MongoDB, and Neo4j (polyglot persistence).  
+- **DevOps**: Dockerized environments for reproducible builds and deployments.  
+- **Real-time Systems**: Simulated MQTT-based IoT data ingestion using Python publishers.  
 
 ---
 
-## Tech Stack
+## 📂 Project Highlights
 
-Frontend:
-
-* React
-* TypeScript
-* Tailwind CSS
-* Vite
-
-Data & ML:
-
-* Python
-* Scikit-Learn
-* TensorFlow
-* OpenCV
-
-Databases & DevOps:
-
-* MySQL
-* MongoDB
-* Neo4j
-* Docker
+| Category | Key Projects | Highlights |
+| :--- | :--- | :--- |
+| **Machine Learning** | Student Dropout Prediction, Hand Gesture Recognition | Applied SHAP/LIME for interpretability and implemented real-time CNN-based vision |
+| **Full-Stack Web** | Gym Management (LAMP), Bloom & Basket (E-commerce) | Dockerized applications with authentication, CSRF protection, and NGINX proxy |
+| **Data & IoT** | Energy Monitoring, IoT DB Cluster | Multi-database synchronization with MQTT ingestion and alerting mechanisms |
+| **Blockchain** | Secure Transaction System | Simulated Ethereum transactions using Ganache and Web3.php |
 
 ---
 
-## Projects
+## 📫 Connect With Me
 
-### Student Dropout Prediction
-
-* Domain: Machine Learning
-* Stack: Python, Scikit-Learn
-* Built a predictive model with explainability using SHAP
-
-### Hand Gesture Recognition
-
-* Domain: Computer Vision
-* Stack: OpenCV, CNN
-* Implemented real-time gesture detection using camera input
-
-### Bloom & Basket
-
-* Domain: Full-Stack Web
-* Stack: PHP, MySQL, Docker
-* Developed an e-commerce platform with authentication and cart functionality
-
-### Gym Management System
-
-* Domain: Web Application
-* Stack: LAMP
-* Built a system for managing memberships and operations
-
-### Energy Monitoring System
-
-* Domain: IoT / Data Systems
-* Stack: MQTT, Python
-* Simulated real-time sensor data ingestion
-
-### Blockchain Transaction System
-
-* Domain: Blockchain
-* Stack: Web3.php, Ganache
-* Simulated secure Ethereum transactions
+- **Email**: [fazlurrahaman365@gmail.com](mailto:fazlurrahaman365@gmail.com)  
+- **LinkedIn**: [Fazlur Rahman](https://linkedin.com/in/YOUR-LINKEDIN-HERE)  
+- **Location**: Messina, Italy (University of Messina)  
 
 ---
 
-## Additional Features
-
-* Interactive terminal-style UI for project navigation
-* Data visualization dashboards for analytics
-* Modular and responsive design
-
----
-
-## Contact
-
-* Email: [fazlurrahaman365@gmail.com](mailto:fazlurrahaman365@gmail.com)
-* LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN-HERE
-* Location: Messina, Italy
-
----
-
-Built by Fazlur Rahman
+<div align="center">
+Built with ❤️ by Fazlur Rahman.  
+© 2024. All Rights Reserved.
+</div>
