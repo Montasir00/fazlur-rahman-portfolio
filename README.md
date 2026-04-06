@@ -19,6 +19,7 @@
 <div align="center">
   <img src="project_temp.png" alt="Portfolio Hero Section" width="600"/>
 </div>
+
 ---
 
 ## 🌟 Website Motivation
