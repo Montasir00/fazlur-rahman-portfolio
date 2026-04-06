@@ -1,4 +1,4 @@
-# [Fazlur Rahman](https://Montasir00.github.io/Portfolio-Website) — Engineering Portfolio 🚀
+# [Fazlur Rahman](https://fazlurrahman.vercel.app) — Portfolio Website 
 
 <div align="center">
 
@@ -8,15 +8,15 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-646CFF?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-[**Live Demo**](https://fazlurrahman.vercel.app/) • [**Report Bug**](https://fazlurrahman.vercel.app/) • [**Request Feature**](https://fazlurrahman.vercel.app/)
+• [**Website**](https://fazlurrahman.vercel.app) • 
 
 </div>
 
 ---
 
-## 📽️ Preview
+## Preview
 
-![Portfolio Hero Section](public/assets/images/projects/pipeline.webp)  
+![Portfolio Hero Section](project_temp.png)  
 *Metadata-driven gallery showcasing projects.*
 
 ---
