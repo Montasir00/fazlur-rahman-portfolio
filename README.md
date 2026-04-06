@@ -16,8 +16,7 @@
 
 ## Preview
 
-![Portfolio Hero Section](project_temp.png)  
-*Metadata-driven gallery showcasing projects.*
+![Portfolio Hero Section](project_temp.png)*Metadata-driven gallery showcasing projects.*
 
 ---
 
