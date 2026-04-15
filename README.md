@@ -22,7 +22,8 @@
 
 ---
 
-## 🌟 Website Motivation
+
+## Website Motivation
 
 I built this portfolio to demonstrate not only my projects but also my ability to build **production-ready, performant, and maintainable software systems**.
 
@@ -36,7 +37,7 @@ I built this portfolio to demonstrate not only my projects but also my ability t
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 ### Frontend
 - **React 19**: Utilizing modern concurrent rendering features and hooks.  
@@ -53,7 +54,7 @@ I built this portfolio to demonstrate not only my projects but also my ability t
 
 ---
 
-## 📂 Project Highlights
+## Project Highlights
 
 | Category | Key Projects | Highlights |
 | :--- | :--- | :--- |
@@ -64,7 +65,7 @@ I built this portfolio to demonstrate not only my projects but also my ability t
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **Email**: [fazlurrahaman365@gmail.com](mailto:fazlurrahaman365@gmail.com)  
 - **LinkedIn**: [Fazlur Rahman](https://linkedin.com/in/YOUR-LINKEDIN-HERE)  
